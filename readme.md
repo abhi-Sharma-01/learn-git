@@ -1,6 +1,8 @@
 # Learning About Git and GitHub
 
+<!--
+This section includes a simple console log example.
+-->
 
-'''
-console.log('Hello,World!');
-'''
+```javascript
+console.log('Hello, World!');
